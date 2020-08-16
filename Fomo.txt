@@ -1,0 +1,5 @@
+Libraries used
+1. Numpy
+2. Matplotlib
+3.Pandas
+4.Data source = NSE 'https://www.niftyindices.com/reports/historical-data'
